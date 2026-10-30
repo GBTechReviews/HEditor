@@ -8,6 +8,10 @@ Contact / 联系方式: huaweiproreview@gmail.com
 
 ## English
 
+### Bundled C++ runtime
+
+The packaged app includes the SDK-provided libc++_shared.so runtime alongside HEditor's own libentry.so. LLVM runtime code is covered by the Apache License 2.0 with LLVM Exceptions and the applicable notices retained in LLVM-NOTICE.txt. Read the original SDK notice offline using Read runtime notices below, or online at https://gbtechreviews.github.io/HEditor/LLVM-NOTICE.txt . The complete SDK notice is retained unchanged; its inclusion does not mean every toolchain component is bundled. These runtime libraries do not provide advertising, analytics or online data collection.
+
 ### Application and system components
 
 HEditor is provided by GBTechReviews. The app includes its own libentry native rendering/removal module and preset files. HarmonyOS platform kits, N-API, EGL and OpenGL ES are system-provided interfaces governed by their respective platform notices. There is no bundled third-party advertising, analytics or cloud-AI SDK. Hypium and Hamock are development/test dependencies and are not app runtime services.
@@ -21,6 +25,10 @@ Your images remain yours. The store screenshots use Fronalpstock by Hannes Röst
 For an attribution, licence or rights question, contact huaweiproreview@gmail.com.
 
 ## 简体中文
+
+### 内置 C++ 运行库
+
+安装包在 HEditor 自身的 libentry.so 之外，还包含 SDK 提供的 libc++_shared.so 运行库。LLVM 运行库代码适用附带 LLVM 例外的 Apache 2.0 许可及 LLVM-NOTICE.txt 中保留的相关声明。可点击下方 Read runtime notices（查看运行库许可原文）离线阅读 SDK 英文原文，或访问 https://gbtechreviews.github.io/HEditor/LLVM-NOTICE.txt 。完整 SDK 声明未经修改保留，不表示所有工具链组件均随应用分发。这些运行库不提供广告、分析或在线数据收集。
 
 ### 应用与系统组件
 

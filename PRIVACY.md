@@ -24,6 +24,10 @@ The app has no registration, advertising, analytics SDK, tracking identifiers or
 
 You choose photos through the system Photo Picker. The app does not request blanket access to your library, camera, microphone, contacts or location. A system SaveButton authorizes each Gallery export. Sharing opens the system share sheet and sends only what you choose to the destination you select. Haptics use the vibration permission and can be switched off in Settings. A Copy action writes the chosen text to the clipboard; HEditor does not read your clipboard in the background.
 
+### System capabilities and third-party sharing
+
+HarmonyOS Photo Picker gives access to the photos you select. Image Kit reads and renders pixels and metadata locally. Core Vision subject segmentation processes the selected image on the device only when requested; HEditor does not perform identity recognition. These are Huawei platform capabilities, not a bundled analytics or advertising SDK. No photo information is automatically shared with a third-party SDK by HEditor. A system sharing destination receives the exported file only when you select it. Huawei privacy information: https://consumer.huawei.com/en/privacy/privacy-policy/ .
+
 ### Local settings and Pro activation
 
 Theme, haptics, export preferences and Pro ownership are stored locally. A receipt code is checked on your device using SHA-256; the app stores the resulting ownership flag, not a payment-card number. The app does not send the code to a server. There is no HEditor account or online purchase-verification service.
@@ -65,6 +69,10 @@ HEditor 在您的设备上处理您主动选择的图像、图像内嵌的元数
 ### 权限、导出与剪贴板
 
 您通过系统照片选择器主动选择照片。应用不申请整库相册、相机、麦克风、通讯录或定位权限。每次保存至图库时由系统保存按钮授权。分享操作打开系统分享面板，仅将您选择的内容交给您指定的目标。触觉反馈使用振动权限，可在设置中关闭。复制操作仅将所选文字写入剪贴板；HEditor 不会在后台读取剪贴板。
+
+### 系统能力与第三方共享
+
+HarmonyOS 照片选择器提供对所选照片的访问；Image Kit 在本地读取和渲染像素及元数据；Core Vision 主体分割仅在您主动请求时，在设备上处理所选图像，HEditor 不进行身份识别。这些是华为平台能力，不是内置广告或分析 SDK。HEditor 不会自动向第三方 SDK 共享照片信息。仅在您指定分享目标时，系统才将导出文件交给该目标。华为隐私信息：https://consumer.huawei.com/en/privacy/privacy-policy/ 。
 
 ### 本地设置与 Pro 激活
 

@@ -8,7 +8,7 @@ Contact / 联系方式: huaweiproreview@gmail.com
 
 ## English
 
-### Selected photos
+### Personal information processing list: selected photos
 
 The HarmonyOS Photo Picker grants access only to photos you select. HEditor reads their pixels and embedded metadata locally, and keeps private copies for drafts. The app does not request READ_IMAGEVIDEO or blanket library access.
 
@@ -28,9 +28,13 @@ Copy actions write selected text to the clipboard. There are no background clipb
 
 The app requests no INTERNET permission and contains no cloud-upload client, advertising or analytics SDK. Device subject segmentation is used only when you request it. Browser links, email, system backups and the operating system have separate data practices.
 
+### Third-party personal information sharing list
+
+No automatic developer-server or third-party SDK sharing. When you choose Share, the selected receiving app gets the export. When you open a website, its host receives the normal browser request, not your photo collection. Optional support messages and external purchases are described separately in the Privacy Policy.
+
 ## 简体中文
 
-### 所选照片
+### 个人信息处理清单：所选照片
 
 HarmonyOS 照片选择器仅授予对您主动选择照片的访问权限。HEditor 在本地读取像素和内嵌元数据，并保留草稿所需的私有副本。应用不申请 READ_IMAGEVIDEO 或整库访问权限。
 
@@ -49,3 +53,7 @@ ohos.permission.VIBRATE 用于编辑控件的触觉反馈。可在设置中关�
 ### 网络与系统能力
 
 应用不申请 INTERNET 权限，不包含云上传客户端、广告或分析 SDK。仅在您请求时使用设备主体分割功能。浏览器链接、邮件、系统备份及操作系统有各自的数据处理规则。
+
+### 第三方共享个人信息清单
+
+不存在自动向开发者服务器或第三方 SDK 共享的行为。您主动分享时，指定接收应用会收到导出文件；您打开网站时，网站托管方收到正常浏览器请求，而非照片库。可选支持消息和外部购买信息在隐私政策中另行说明。

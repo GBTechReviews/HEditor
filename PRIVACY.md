@@ -14,7 +14,7 @@ HEditor 绘影 (HEditor) is provided by GBTechReviews. Contact the developer abo
 
 ### Your selected photos stay on your device
 
-HEditor processes the images you choose, their embedded metadata, edit settings, masks, text and collages on your device to provide editing, draft recovery and export. Private source copies, rendered copies and edit history are saved in the app's private storage. Photos and EXIF metadata can contain personal information, including faces or location recorded by your camera. HEditor does not upload this material to the developer or use it to identify you.
+**HEditor processes the images you choose, their embedded metadata, edit settings, masks, text and collages on your device to provide editing, draft recovery and export. Private source copies, rendered copies and edit history are saved in the app's private storage. Photos and EXIF metadata can contain personal information, including faces or location recorded by your camera. HEditor does not upload this material to the developer or use it to identify you.**
 
 ### No in-app tracking or cloud editing
 
@@ -60,7 +60,7 @@ HEditor 绘影（HEditor）由 GBTechReviews 提供。隐私或支持问题请�
 
 ### 所选照片在设备上处理
 
-HEditor 在您的设备上处理您主动选择的图像、图像内嵌的元数据、编辑参数、蒙版、文字和拼图，以提供编辑、草稿恢复及导出。原图副本、渲染副本和编辑历史保存在应用私有存储中。照片及 EXIF 元数据可能包含人像或相机记录的位置等个人信息。HEditor 不会将这些内容上传给开发者，也不会用于识别您的身份。
+**HEditor 在您的设备上处理您主动选择的图像、图像内嵌的元数据、编辑参数、蒙版、文字和拼图，以提供编辑、草稿恢复及导出。原图副本、渲染副本和编辑历史保存在应用私有存储中。照片及 EXIF 元数据可能包含人像或相机记录的位置等个人信息。HEditor 不会将这些内容上传给开发者，也不会用于识别您的身份。**
 
 ### 无应用内跟踪或云端编辑
 

@@ -1,8 +1,8 @@
 # HEditor 绘影: Permissions and data / 权限与数据
 
-Updated and effective / 更新与生效日期: 2026-10-30
+Updated and effective / 更新与生效日期: 2026-10-31
 
-Developer / 开发者: GBTechReviews
+Developer / 开发者: Griffith Rhys Bowen (GBTechReviews)
 
 Contact / 联系方式: huaweiproreview@gmail.com
 

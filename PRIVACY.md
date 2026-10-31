@@ -1,8 +1,8 @@
 # HEditor 绘影: Privacy Policy / 隐私政策
 
-Updated and effective / 更新与生效日期: 2026-10-30
+Updated and effective / 更新与生效日期: 2026-10-31
 
-Developer / 开发者: GBTechReviews
+Developer / 开发者: Griffith Rhys Bowen (GBTechReviews)
 
 Contact / 联系方式: huaweiproreview@gmail.com
 
@@ -10,7 +10,7 @@ Contact / 联系方式: huaweiproreview@gmail.com
 
 ### Who provides HEditor
 
-HEditor 绘影 (HEditor) is provided by GBTechReviews. Contact the developer about privacy or support at huaweiproreview@gmail.com. This policy covers the HarmonyOS NEXT app; external websites have their own policies.
+HEditor 绘影 (HEditor) is provided by Griffith Rhys Bowen, using the GBTechReviews developer brand. Contact the developer about privacy or support at huaweiproreview@gmail.com. This policy covers the HarmonyOS NEXT app; external websites have their own policies.
 
 ### Your selected photos stay on your device
 
@@ -56,7 +56,7 @@ The developer does not knowingly collect children's personal information through
 
 ### 提供者与联系方式
 
-HEditor 绘影（HEditor）由 GBTechReviews 提供。隐私或支持问题请联系 huaweiproreview@gmail.com。本政策适用于 HarmonyOS NEXT 应用；外部网站适用各自的隐私政策。
+HEditor 绘影（HEditor）由 Griffith Rhys Bowen 以 GBTechReviews 开发者品牌提供。隐私或支持问题请联系 huaweiproreview@gmail.com。本政策适用于 HarmonyOS NEXT 应用；外部网站适用各自的隐私政策。
 
 ### 所选照片在设备上处理
 

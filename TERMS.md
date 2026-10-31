@@ -1,8 +1,8 @@
 # HEditor 绘影: Terms of Use / 使用条款
 
-Updated and effective / 更新与生效日期: 2026-10-30
+Updated and effective / 更新与生效日期: 2026-10-31
 
-Developer / 开发者: GBTechReviews
+Developer / 开发者: Griffith Rhys Bowen (GBTechReviews)
 
 Contact / 联系方式: huaweiproreview@gmail.com
 
@@ -10,7 +10,7 @@ Contact / 联系方式: huaweiproreview@gmail.com
 
 ### About these terms
 
-These terms cover HEditor 绘影 (HEditor), provided by GBTechReviews. For support, purchase or legal questions, contact huaweiproreview@gmail.com. The app is a photo-editing and collage tool for HarmonyOS NEXT. These terms do not replace the applicable AppGallery or operating-system terms.
+These terms cover HEditor 绘影 (HEditor), provided by Griffith Rhys Bowen using the GBTechReviews developer brand. For support, purchase or legal questions, contact huaweiproreview@gmail.com. The app is a photo-editing and collage tool for HarmonyOS NEXT. These terms do not replace the applicable AppGallery or operating-system terms.
 
 ### Your content and permitted use
 
@@ -44,7 +44,7 @@ Feature changes will be described accurately in the app or release information. 
 
 ### 条款范围
 
-本条款适用于 GBTechReviews 提供的 HEditor 绘影（HEditor）。支持、购买或法律问题请联系 huaweiproreview@gmail.com。应用是 HarmonyOS NEXT 照片编辑与拼图工具。本条款不取代适用的应用市场或操作系统条款。
+本条款适用于 Griffith Rhys Bowen 以 GBTechReviews 开发者品牌提供的 HEditor 绘影（HEditor）。支持、购买或法律问题请联系 huaweiproreview@gmail.com。应用是 HarmonyOS NEXT 照片编辑与拼图工具。本条款不取代适用的应用市场或操作系统条款。
 
 ### 您的内容与使用范围
 
